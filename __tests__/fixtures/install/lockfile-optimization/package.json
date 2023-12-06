@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "webpack": "1.14.0",
+    "webpack": "1.15.0",
     "webpack-parallel-uglify-plugin": "0.2.0"
   }
 }
